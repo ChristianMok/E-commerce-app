@@ -10,57 +10,46 @@ class Directory extends React.Component {
             sections: [
                 {
                     title: 'Computer case',
-                    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                    imageUrl: 'images/images/shop-img/computercase/Fractal-Design-Focus-G.jpg',
+                    size: 'large',
                     id: 1,
                     linkUrl:'Computer case'
                 },
                 {
                     title: 'Cooling',
-                    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                    imageUrl: 'images/images/shop-img/cooling/Cooler-master-hyper-212.jpg',
+                    size: 'large',
                     id: 2,
                     linkUrl:'Cooling'
                 },
                 {
                     title: 'Motherboards',
-                    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                    imageUrl: 'images/images/shop-img/motherboards/Asus-x570-p.jpeg',
+                    size: 'large',
                     id: 3 ,
                     linkUrl:'Motherboards'
 
                 },
                 {
                     title: 'Processors',
-                    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                    imageUrl: 'images/images/shop-img/processors/intel-core-i7-9700k.jpg',
                     size: 'large',
                     id: 4,
                     linkUrl:'Processors'
                 },
                 {
                     title: 'Video Cards',
-                    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                    imageUrl: 'images/images/shop-img/videocards/quadro-p5000-16gb.jpg',
                     size: 'large',
                     id: 5,
                     linkUrl:'Video Cards'
                 },
                 {
                     title: 'Power Supplies',
-                    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                    imageUrl: 'images/images/shop-img/powersupplies/gigabyte-p650b.jpg',
                     size: 'large',
                     id: 6,
                     linkUrl:'Power Supplies'
-                },
-                {
-                    title: 'Memory',
-                    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
-                    size: 'large',
-                    id: 7,
-                    linkUrl: 'Memory'
-                },
-                {
-                    title: 'Sound Cards',
-                    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
-                    size: 'large',
-                    id: 8,
-                    linkUrl: 'Sound Cards'
                 },
             ]
         };
