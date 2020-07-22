@@ -2,7 +2,7 @@ const INITIAL_STATE = {
     sections: [
         {
             title: 'Computer case',
-            imageUrl: 'images/shop-img/computercase/Fractal-Design-Focus-G.jpg',
+            imageUrl: 'https://i.ibb.co/NSV5XnK/Fractal-Design-Define-7-ATX-Case-Black-Solid.jpg',
             size: 'large',
             id: 1,
             linkUrl:'shop/computercase'
@@ -16,7 +16,7 @@ const INITIAL_STATE = {
         },
         {
             title: 'Motherboards',
-            imageUrl: 'images/shop-img/motherboards/Asus-x570-p.jpeg',
+          imageUrl: "https://i.ibb.co/2v5DZLR/final.jpg",
             size: 'large',
             id: 3 ,
             linkUrl:'shop/motherboards'
@@ -24,21 +24,21 @@ const INITIAL_STATE = {
         },
         {
             title: 'Processors',
-            imageUrl: 'images/shop-img/processors/intel-core-i7-9700k.jpg',
+            imageUrl: 'https://i.ibb.co/ft76VgK/Core-i5-10400-Processor-2-9-GHz-w-6-Cores-12-Threads.jpg',
             size: 'large',
             id: 4,
             linkUrl:'shop/processors'
         },
         {
             title: 'Video Cards',
-            imageUrl: 'images/shop-img/videocards/quadro-p5000-16gb.jpg',
+            imageUrl: 'https://i.ibb.co/tDyG4Rf/MSI-RTX2070.jpg',
             size: 'large',
             id: 5,
             linkUrl:'shop/videocards'
         },
         {
             title: 'Power Supplies',
-            imageUrl: 'images/shop-img/powersupplies/gigabyte-p650b.jpg',
+            imageUrl: 'https://i.ibb.co/p04QzbH/evga-850ga.jpg',
             size: 'large',
             id: 6,
             linkUrl:'shop/powersupplies'
