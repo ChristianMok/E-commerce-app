@@ -7,7 +7,6 @@ export const SpinnerOverlay = styled.div`
   justify-content: center;
   align-items: center;
 `;
-
 export const SpinnerContainer = styled.div`
   display: inline-block;
   width: 50px;
