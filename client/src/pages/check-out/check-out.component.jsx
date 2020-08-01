@@ -1,5 +1,4 @@
 import React from 'react';
-import './check-out.styles.scss';
 import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 
